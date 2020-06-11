@@ -1,0 +1,16 @@
+
+#canvas {
+    height: 400px;
+    width: 400px;
+    background-color: #ffd300;
+    margin: auto;
+    box-shadow: 20px 20px 47px 3px rgba(0,0,0,0.61);
+}
+
+#palette {
+height: 40px;
+width: 40px;
+background-color: white;
+margin: auto;
+
+}
